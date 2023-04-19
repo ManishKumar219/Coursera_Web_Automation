@@ -5,7 +5,7 @@
 
 <br><br>
 
-## Run the following command first
+### Run the following command first
 > pip install -r requirements.txt
 
 <br><br>
