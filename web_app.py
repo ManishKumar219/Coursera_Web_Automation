@@ -5,10 +5,10 @@
 course_name = "Introduction to Artificial Intelligence (AI)"
 
 ## Enter E-mail Id
-E_mail = "mk8051manish@gmail.com"
+E_mail = "***@gmail.com"
 
 ## Enter Coursera Password
-password = "Manish@990"
+password = "***"
 
 Wait_time_for_captcha = 30
 Wait_Time = 3 #If your Network is Slow Incrase the Wait Time Slightly
